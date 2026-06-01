@@ -1,10 +1,10 @@
-## Hi, I'm Srijan Banerjee
+# Hi, I'm Srijan Banerjee
 
-**Data Analyst | Backend Developer | AI Application Builder**
+**Backend Developer | AI Application Builder | Python Developer**
 
-I build practical software with Python, data, and AI. My work sits around data analysis, backend systems, and AI-powered applications: taking messy inputs, structuring them, extracting insight, and turning the result into something usable.
+I build practical backend systems and AI-powered applications with Python. My work sits around APIs, async workflows, caching, databases, document processing, and turning raw inputs into useful software.
 
-I am a B.Tech Computer Science graduate based in New Delhi, currently open to entry-level roles, internships, and collaborations in data analysis, backend development, and AI-driven product engineering.
+I am a B.Tech Computer Science graduate based in New Delhi, currently open to entry-level backend developer roles, internships, and collaborations around Python, APIs, and AI-driven product engineering.
 
 [Portfolio](https://srijan-banerjee.netlify.app) · [LinkedIn](https://www.linkedin.com/in/banerjee-srijan) · [LeetCode](https://leetcode.com/u/srijan1683/) · [Email](mailto:pvtsrijan03@gmail.com)
 
@@ -16,10 +16,6 @@ I am a B.Tech Computer Science graduate based in New Delhi, currently open to en
 
 Python · SQL · JavaScript · HTML · CSS · C++ · R
 
-**Data and Analytics**
-
-Pandas · NumPy · Matplotlib · Seaborn · Tableau · MySQL · Excel · Statistical Analysis · Data Visualization
-
 **Backend and APIs**
 
 FastAPI · Pydantic · Uvicorn · httpx · BeautifulSoup · Redis · PostgreSQL · asyncpg · REST APIs · Server-Sent Events
@@ -27,6 +23,10 @@ FastAPI · Pydantic · Uvicorn · httpx · BeautifulSoup · Redis · PostgreSQL 
 **AI and ML**
 
 Gemini API · OpenAI/OpenRouter-compatible APIs · Streamlit · RAG basics · embeddings · document summarization · ML fundamentals
+
+**Data and Analytics**
+
+Pandas · NumPy · Matplotlib · Seaborn · Tableau · MySQL · Excel · Statistical Analysis · Data Visualization
 
 **Developer Tools**
 
@@ -36,10 +36,10 @@ Git · GitHub · VS Code · Docker Compose · Render · Netlify
 
 ## Current Focus
 
-- Building AI-powered applications that combine document processing, summarization, chat interfaces, and useful workflows.
-- Strengthening backend engineering with FastAPI, async Python, caching, database design, and clean API structure.
-- Practicing data analysis with real-world datasets, SQL, Tableau dashboards, and Python visualizations.
-- Improving DSA and problem-solving through regular coding practice.
+- Building backend services with FastAPI, async Python, caching, and clean API structure.
+- Working on AI-powered applications that combine document processing, summarization, chat interfaces, and practical workflows.
+- Designing systems with sessions, databases, background jobs, rate-limit handling, and streaming responses.
+- Improving DSA, SQL, and problem-solving through regular coding practice.
 
 ---
 
@@ -63,20 +63,13 @@ Worked under the DM&A vertical on NDAP-related analysis, dataset evaluation, and
 I like projects that are clear, useful, and complete enough to be tested in the real world. I care about:
 
 - readable code structure
-- practical data flow
 - clean API design
-- meaningful visualizations
+- practical data flow
+- reliable caching and database usage
+- async workflows that stay understandable
 - small details that make tools easier to use
 
-Right now, I am especially interested in the intersection of **data analysis, backend systems, and AI applications**.
-
----
-
-## GitHub Stats
-
-![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srijan1683&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan1683&layout=compact&hide_border=true)
+Right now, I am especially interested in the intersection of **backend systems, Python tooling, and AI applications**.
 
 
 
