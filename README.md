@@ -1,6 +1,6 @@
 # Hi, I'm Srijan Banerjee 👋
 
-**Backend Developer | AI Application Builder | Python Developer**
+**Backend Developer | AI Application Builder | Python Developer | Data Analyst**
 
 I build practical backend systems and AI-powered applications with Python. My work sits around APIs, async workflows, caching, databases, document processing, and turning raw inputs into useful software.
 
