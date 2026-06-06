@@ -35,17 +35,6 @@ Pandas · NumPy · Matplotlib · Seaborn · Tableau · MySQL · Excel · Statist
 
 Git · GitHub · VS Code · Docker Compose · Render · Netlify
 
----
-
-## Current Focus 🚀
-
-- Building backend services with FastAPI, async Python, caching, and clean API structure.
-- Working on AI-powered applications that combine document processing, summarization, chat interfaces, and practical workflows.
-- Designing systems with sessions, databases, background jobs, rate-limit handling, and streaming responses.
-- Improving DSA, SQL, and problem-solving through regular coding practice.
-
----
-
 ## Experience 💼
 
 ### Data Analyst Intern - NITI Aayog
@@ -58,23 +47,6 @@ Worked under the DM&A vertical on NDAP-related analysis, dataset evaluation, and
 - Worked on KPI and user metric frameworks for the Women Empowerment Platform.
 
 **Tools:** Tableau, Excel, PowerPoint, LucidSpark
-
----
-
-## How I Build ⚙️
-
-I like projects that are clear, useful, and complete enough to be tested in the real world. I care about:
-
-- readable code structure
-- clean API design
-- practical data flow
-- reliable caching and database usage
-- async workflows that stay understandable
-- small details that make tools easier to use
-
-Right now, I am especially interested in the intersection of **backend systems, Python tooling, and AI applications**.
-
----
 
 ## GitHub Stats 📊
 
