@@ -30,12 +30,14 @@ B.Tech CSE graduate based in New Delhi, open to entry-level Backend, Python, Dat
 
 ## 📊 GitHub Stats
 
-<p>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan1683&theme=default" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijan1683&theme=default" />
+<p align="center">
+  <img align="top" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan1683&theme=default" />
+  <img align="top" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijan1683&theme=default" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srijan1683/Srijan1683/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Srijan1683/Srijan1683/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srijan1683/Srijan1683/output/github-contribution-grid-snake-dark.svg" />
+    <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/Srijan1683/Srijan1683/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
