@@ -32,7 +32,6 @@ B.Tech CSE graduate based in New Delhi, open to entry-level Backend, Python, Dat
 
 <p>
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijan1683&theme=default" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srijan1683&theme=default" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijan1683&theme=default" />
 </p>
 
