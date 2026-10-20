@@ -26,6 +26,8 @@ jobs:
 
       - name: Push to output branch
         run: |
+          # The snk action runs in Docker as root, so dist/ is root-owned
+          sudo chown -R "$(id -u):$(id -g)" dist
           cd dist
           git init -b output
           git config user.name "github-actions[bot]"
