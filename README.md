@@ -14,8 +14,7 @@ B.Tech CSE graduate based in New Delhi, open to entry-level Backend, Python, Dat
 - **Languages:** Python · SQL · HTML · CSS
 - **Backend:** FastAPI · REST · asyncpg · PostgreSQL · Redis · httpx · Pydantic · SSE
 - **AI & Data:** OpenRouter · RAG · ChromaDB · Streamlit · Pandas · NumPy · Matplotlib · Tableau
-- **DevOps:** Docker · Git · GitHub Actions · CI/CD · Render · Netlify
-- **Currently learning:** Terraform · Kubernetes
+- **DevOps:** Docker · Git · GitHub Actions · CI/CD · Terraform · Kubernetes · Render · Netlify
 
 ---
 
