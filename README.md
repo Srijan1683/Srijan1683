@@ -1,5 +1,5 @@
 # Hi, I'm Srijan Banerjee 👋
-**Backend Developer · Python Developer · DevOps Engineer · Data Analyst**
+**Backend Developer · DevOps Engineer · Data Analyst**
 
 I build backend systems and AI-powered applications with Python: REST APIs, async workflows, LLM integrations, caching, databases and document pipelines. I also containerize and ship what I build, using Docker and CI/CD.
 
@@ -15,6 +15,7 @@ B.Tech CSE graduate based in New Delhi, open to entry-level Backend, Python, Dat
 - **Backend:** FastAPI · REST · asyncpg · PostgreSQL · Redis · httpx · Pydantic · SSE
 - **AI & Data:** OpenRouter · RAG · ChromaDB · Streamlit · Pandas · NumPy · Matplotlib · Tableau
 - **DevOps:** Docker · Git · GitHub Actions · CI/CD · Terraform · Kubernetes · Render · Netlify
+- **Currently Learning:** Microsoft Azure
 
 ---
 
