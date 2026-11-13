@@ -28,44 +28,6 @@ B.Tech CSE graduate based in New Delhi, open to entry-level Backend, Python, Dat
 
 ---
 
-## 🚀 Projects
-
-### 🧠 Backend & AI Systems
-
-**🐇 The Rabbit Hole**
-
-Full-stack AI research agent that pulls from 5 external APIs (Wikipedia, arXiv, Open Library, Podcast Index, YouTube) and streams answers in real time over SSE. Async FastAPI + PostgreSQL backend with 24-hour response caching and rate limiting. Shipped with Docker, GitHub Actions CI/CD, Terraform and Kubernetes.
-`Python` `FastAPI` `PostgreSQL` `OpenRouter` `SSE` `Docker` `GitHub Actions` `Terraform` `Kubernetes`
-
-**🧭 Meridian**
-
-Deep research agent with normal and deep modes, streamed live over WebSockets. Two-layer semantic memory with ChromaDB and a PostgreSQL persistence layer with citation validation, covered by 19 passing tests.
-`Python` `FastAPI` `PostgreSQL` `ChromaDB` `WebSockets` `Tavily`
-
-**🔗 Cached URL Shortener + Web Scraper**
-
-FastAPI service that shortens URLs, scrapes pages, caches results and summarizes content with an LLM. Modular design with a pytest suite.
-`Python` `FastAPI` `BeautifulSoup` `OpenRouter` `pytest`
-
-### 🎓 AI & Documents
-
-**📊 AI Powered Slide Generator and Chatbot**
-
-Turns PDF and TXT documents into structured slide summaries through a 4-stage pipeline, with a section-aware chatbot and PowerPoint export.
-`Python` `Streamlit` `PyMuPDF` `python-pptx` `ChromaDB` `OpenRouter`
-
-### 🌐 Web & Practice
-
-**💼 Portfolio Website**
-
-My personal portfolio with projects, experience and contact details, hosted on Netlify.
-
-**🧩 DSA Practice**
-
-Consistent LeetCode practice across arrays, strings, stacks, binary search, DP, graphs, union-find and segment trees, written in Python.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
