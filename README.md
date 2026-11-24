@@ -3,7 +3,7 @@
 
 I build backend systems and AI-powered applications with Python: REST APIs, async workflows, LLM integrations, caching, databases and document pipelines. I also containerize and ship what I build, using Docker and CI/CD.
 
-B.Tech CSE graduate based in New Delhi, open to entry-level Backend, Python, Data Analyst and AI Development roles.
+B.Tech CSE graduate based in New Delhi, open to entry-level Python Backend, DevOps Engineer, Data Analyst and AI Development roles.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://srijan-banerjee.netlify.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banerjee-srijan) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/srijan1683/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvtsrijan03@gmail.com)
 
